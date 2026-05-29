@@ -1,0 +1,744 @@
+{
+  "e5f5f4b6f5821b11b857460e": {
+    "itemTplToClone": "5a16b8a9fcdbcb00165aa6ca",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/g24blk.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Ergonomics": 3,
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "5a17e7c0fcdbcb001a3b00e4",
+          "_parent": "5a16b8a9fcdbcb00165aa6ca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5c0695860db834001b735461",
+                  "5a16b93dfcdbcbcae6687261",
+                  "5c11046cd174af02a012e42b",
+                  "24e123c7f72ef7bfd776f986",
+                  "43fe66cf93a3dfd27007b013",
+                  "3d578fcb5ec4b117831af9db",
+                  "181b475ce24b777241afb6ad",
+                  "fdeb82c6bbd8f06a3e588830",
+                  "5929de4a6a57b306bbbee567"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Wilcox G24 (Black)",
+        "shortName": "G24-B",
+        "description": "Wilcox G24"
+      }
+    },
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 2615,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "ac4711c0ed9460a735408abd": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ]
+  },
+  "95cf3a4733b451ec204fad54": {
+    "itemTplToClone": "5a16b8a9fcdbcb00165aa6ca",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/g24grey.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Ergonomics": 3,
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "5a17e7c0fcdbcb001a3b00e4",
+          "_parent": "5a16b8a9fcdbcb00165aa6ca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5c0695860db834001b735461",
+                  "5a16b93dfcdbcbcae6687261",
+                  "5c11046cd174af02a012e42b",
+                  "24e123c7f72ef7bfd776f986",
+                  "43fe66cf93a3dfd27007b013",
+                  "3d578fcb5ec4b117831af9db",
+                  "181b475ce24b777241afb6ad",
+                  "fdeb82c6bbd8f06a3e588830",
+                  "5929de4a6a57b306bbbee567"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Wilcox G24 (Grey and Gold)",
+        "shortName": "G24-GG",
+        "description": "Wilcox G24"
+      }
+    },
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 2615,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "26e3161788957f4636a485da": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ]
+  },
+  "05293147ae368d0d5a2e81ef": {
+    "itemTplToClone": "5a16b8a9fcdbcb00165aa6ca",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/g24gold.bundle",
+        "rcid": ""
+      },
+      "Width": 1,
+      "Height": 1,
+      "Ergonomics": 3,
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "5a17e7c0fcdbcb001a3b00e4",
+          "_parent": "5a16b8a9fcdbcb00165aa6ca",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5c0695860db834001b735461",
+                  "5a16b93dfcdbcbcae6687261",
+                  "5c11046cd174af02a012e42b",
+                  "24e123c7f72ef7bfd776f986",
+                  "43fe66cf93a3dfd27007b013",
+                  "3d578fcb5ec4b117831af9db",
+                  "181b475ce24b777241afb6ad",
+                  "fdeb82c6bbd8f06a3e588830",
+                  "5929de4a6a57b306bbbee567"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Wilcox G24 (Gold)",
+        "shortName": "G24-G",
+        "description": "Wilcox G24"
+      }
+    },
+    "fleaPriceRoubles": 11000,
+    "handbookPriceRoubles": 2615,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "67751ae7219c34b3ef363d74": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3125,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_nvg"
+    ]
+  },
+  "24e123c7f72ef7bfd776f986": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/fusiongpnvg.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 3,
+      "ItemSound": "gear_goggles",
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.2
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Intensity": 2.27,
+      "Mask": "Anvis",
+      "RampPalette": "BlackHot",
+      "DepthFade": 0.03,
+      "RoughnessCoef": 0.04,
+      "SpecularCoef": 0.14,
+      "MainTexColorCoef": 0.2,
+      "MinimumTemperatureValue": 0.25,
+      "RampShift": -0.059,
+      "HeatMin": 0.55,
+      "ColdMax": 0.462,
+      "IsNoisy": true,
+      "IsFpsStuck": false,
+      "IsGlitch": false,
+      "IsMotionBlurred": false,
+      "MaskSize": 0.99,
+      "NoiseIntensity": 0.001,
+      "NoiseScale": 1,
+      "Color": {
+        "r": 83,
+        "g": 255,
+        "b": 69,
+        "a": 254
+      },
+      "DiffuseIntensity": 0.023,
+      "HasHinge": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Fusion GPNVG",
+        "shortName": "GPNVG-F",
+        "description": "Fusion GPNVG"
+      }
+    },
+    "fleaPriceRoubles": 110000,
+    "handbookPriceRoubles": 98500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "75beb67cc134d1755bef1525": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2125,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "43fe66cf93a3dfd27007b013": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/fusiongpnvgblk.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 3,
+      "ItemSound": "gear_goggles",
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.2
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Intensity": 2.27,
+      "Mask": "Anvis",
+      "RampPalette": "BlackHot",
+      "DepthFade": 0.03,
+      "RoughnessCoef": 0.04,
+      "SpecularCoef": 0.14,
+      "MainTexColorCoef": 0.2,
+      "MinimumTemperatureValue": 0.25,
+      "RampShift": -0.059,
+      "HeatMin": 0.55,
+      "ColdMax": 0.462,
+      "IsNoisy": true,
+      "IsFpsStuck": false,
+      "IsGlitch": false,
+      "IsMotionBlurred": false,
+      "MaskSize": 0.99,
+      "NoiseIntensity": 0.001,
+      "NoiseScale": 1,
+      "Color": {
+        "r": 83,
+        "g": 255,
+        "b": 69,
+        "a": 254
+      },
+      "DiffuseIntensity": 0.023,
+      "HasHinge": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Fusion GPNVG Black",
+        "shortName": "GPNVG-FB",
+        "description": "Fusion GPNVG Black"
+      }
+    },
+    "fleaPriceRoubles": 110000,
+    "handbookPriceRoubles": 98500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "024fae0159601bc3870efef8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2125,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fdeb82c6bbd8f06a3e588830": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/chimeragpnvg.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 3,
+      "ItemSound": "gear_goggles",
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.2
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Intensity": 2.27,
+      "Mask": "Anvis",
+      "RampPalette": "BlackHot",
+      "DepthFade": 0.03,
+      "RoughnessCoef": 0.04,
+      "SpecularCoef": 0.14,
+      "MainTexColorCoef": 0.2,
+      "MinimumTemperatureValue": 0.25,
+      "RampShift": -0.059,
+      "HeatMin": 0.55,
+      "ColdMax": 0.462,
+      "IsNoisy": true,
+      "IsFpsStuck": false,
+      "IsGlitch": false,
+      "IsMotionBlurred": false,
+      "MaskSize": 0.99,
+      "NoiseIntensity": 0.001,
+      "NoiseScale": 1,
+      "Color": {
+        "r": 83,
+        "g": 255,
+        "b": 69,
+        "a": 254
+      },
+      "DiffuseIntensity": 0.023,
+      "HasHinge": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Chimera GPNVG",
+        "shortName": "GPNVG-C",
+        "description": "Chimera GPNVG"
+      }
+    },
+    "fleaPriceRoubles": 110000,
+    "handbookPriceRoubles": 98500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6c2ca624f1308f74c8a0819a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2125,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "5929de4a6a57b306bbbee567": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/chimeragpnvgblk.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 3,
+      "ItemSound": "gear_goggles",
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.2
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Intensity": 2.27,
+      "Mask": "Anvis",
+      "RampPalette": "BlackHot",
+      "DepthFade": 0.03,
+      "RoughnessCoef": 0.04,
+      "SpecularCoef": 0.14,
+      "MainTexColorCoef": 0.2,
+      "MinimumTemperatureValue": 0.25,
+      "RampShift": -0.059,
+      "HeatMin": 0.55,
+      "ColdMax": 0.462,
+      "IsNoisy": true,
+      "IsFpsStuck": false,
+      "IsGlitch": false,
+      "IsMotionBlurred": false,
+      "MaskSize": 0.99,
+      "NoiseIntensity": 0.001,
+      "NoiseScale": 1,
+      "Color": {
+        "r": 83,
+        "g": 255,
+        "b": 69,
+        "a": 254
+      },
+      "DiffuseIntensity": 0.023,
+      "HasHinge": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Chimera GPNVG Black",
+        "shortName": "GPNVG-CB",
+        "description": "Chimera GPNVG Black"
+      }
+    },
+    "fleaPriceRoubles": 110000,
+    "handbookPriceRoubles": 98500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "b36fbd23aab7ddedccc90b8e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2125,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "3d578fcb5ec4b117831af9db": {
+    "itemTplToClone": "5c0558060db834001b735271",
+    "parentId": "5a2c3a9486f774688b05e574",
+    "handbookParentId": "5b5f73ec86f774093e6cb4fd",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/NVG/pvs31ablk.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 3,
+      "ItemSound": "gear_goggles",
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "UniqueAnimationModID": 0,
+      "CustomAimPlane": "",
+      "sightModType": "iron",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.2
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          1
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ],
+      "Intensity": 2.27,
+      "Mask": "Binocular",
+      "RampPalette": "BlackHot",
+      "DepthFade": 0.03,
+      "RoughnessCoef": 0.04,
+      "SpecularCoef": 0.14,
+      "MainTexColorCoef": 0.2,
+      "MinimumTemperatureValue": 0.25,
+      "RampShift": -0.059,
+      "HeatMin": 0.55,
+      "ColdMax": 0.462,
+      "IsNoisy": true,
+      "IsFpsStuck": false,
+      "IsGlitch": false,
+      "IsMotionBlurred": false,
+      "MaskSize": 0.99,
+      "NoiseIntensity": 0.001,
+      "NoiseScale": 1,
+      "Color": {
+        "r": 83,
+        "g": 255,
+        "b": 69,
+        "a": 254
+      },
+      "DiffuseIntensity": 0.023,
+      "HasHinge": true,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AN/PVS-31A (Black)",
+        "shortName": "PVS31A-B",
+        "description": "AN/PVS-31A (Black)"
+      }
+    },
+    "fleaPriceRoubles": 70000,
+    "handbookPriceRoubles": 61500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "be544971411f61484ecc6569": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1025,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

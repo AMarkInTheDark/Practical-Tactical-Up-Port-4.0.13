@@ -1,0 +1,4049 @@
+{
+  "ab86ea94deafdde8c93f25c6": {
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/fasthelmetsfblack.bundle",
+        "rcid": ""
+      },
+      "Height": 2,
+      "Width": 2,
+      "Weight": 1.88,
+      "weaponErgonomicPenalty": -0.5,
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9",
+                  "75763f74c0ed9354c2455430",
+                  "5a91ca3f71f22f6f44000d0d",
+                  "fda3b2297ecb7ce21177d4f2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "005fdc2456afa836c2f76240",
+                  "83c6d4b917b8209be3eadd5e",
+                  "53cae720e8ae6cb76bb526cb",
+                  "13dc929f86451839c6d0e17f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_002",
+          "_id": "5c0e6acbd174af02a96252f8",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "70672f8968197066bb0696f6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "5ac8d6885acfc400180ae7b3",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "e5f5f4b6f5821b11b857460e",
+                  "95cf3a4733b451ec204fad54",
+                  "05293147ae368d0d5a2e81ef"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "473362d9239ede0a33aca9a9"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b3dbe63241872b51b6b8e16a",
+                  "51051aedc2907f039973281f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "da9ddcd4db3a063092f4538d"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "32247018fe8d524186309934"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "53bdce5790c56342f189cddf"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_003",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "657f9149f92cd718b7015507",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8ec5f4c82973640b234c",
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "657f9149f92cd718b7015508",
+          "_parent": "ab86ea94deafdde8c93f25c6",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8f10f4c82973640b2350",
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Fast SF (BLACK)",
+        "shortName": "FAST SF-B",
+        "description": "Opscore Fast SF"
+      }
+    },
+    "fleaPriceRoubles": 120000,
+    "handbookPriceRoubles": 98000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoInventorySlots": [
+      "55d729ef4bdc2d3a168b456c"
+    ]
+  },
+  "8a3e4528bd759ed0828c2d4e": {
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/fasthelmetsfmc.bundle",
+        "rcid": ""
+      },
+      "Height": 2,
+      "Width": 2,
+      "Weight": 1.88,
+      "weaponErgonomicPenalty": -0.5,
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9",
+                  "75763f74c0ed9354c2455430",
+                  "5a91ca3f71f22f6f44000d0d",
+                  "fda3b2297ecb7ce21177d4f2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "005fdc2456afa836c2f76240",
+                  "83c6d4b917b8209be3eadd5e",
+                  "53cae720e8ae6cb76bb526cb",
+                  "13dc929f86451839c6d0e17f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_002",
+          "_id": "5c0e6acbd174af02a96252f8",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "70672f8968197066bb0696f6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "5ac8d6885acfc400180ae7b3",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "e5f5f4b6f5821b11b857460e",
+                  "95cf3a4733b451ec204fad54",
+                  "05293147ae368d0d5a2e81ef"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "473362d9239ede0a33aca9a9"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b3dbe63241872b51b6b8e16a",
+                  "51051aedc2907f039973281f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "da9ddcd4db3a063092f4538d"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "32247018fe8d524186309934"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "53bdce5790c56342f189cddf"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_003",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "657f9149f92cd718b7015507",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8ec5f4c82973640b234c",
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "657f9149f92cd718b7015508",
+          "_parent": "8a3e4528bd759ed0828c2d4e",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8f10f4c82973640b2350",
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Fast SF (MC)",
+        "shortName": "FAST SF-MC",
+        "description": "Opscore Fast SF"
+      }
+    },
+    "fleaPriceRoubles": 120000,
+    "handbookPriceRoubles": 98000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoInventorySlots": [
+      "55d729ef4bdc2d3a168b456c"
+    ]
+  },
+  "c2c9cf67c1970d46d00c8908": {
+    "itemTplToClone": "5ac8d6885acfc400180ae7b0",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/fasthelmetsftan.bundle",
+        "rcid": ""
+      },
+      "Height": 2,
+      "Width": 2,
+      "Weight": 1.88,
+      "weaponErgonomicPenalty": -0.5,
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16badafcdbcb001865f72d",
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9",
+                  "75763f74c0ed9354c2455430",
+                  "5a91ca3f71f22f6f44000d0d",
+                  "fda3b2297ecb7ce21177d4f2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a16b9fffcdbcb0176308b34",
+                  "005fdc2456afa836c2f76240",
+                  "83c6d4b917b8209be3eadd5e",
+                  "53cae720e8ae6cb76bb526cb",
+                  "13dc929f86451839c6d0e17f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_002",
+          "_id": "5c0e6acbd174af02a96252f8",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "70672f8968197066bb0696f6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "5ac8d6885acfc400180ae7b3",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5ea058e01dbce517f324b3e2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "e5f5f4b6f5821b11b857460e",
+                  "95cf3a4733b451ec204fad54",
+                  "05293147ae368d0d5a2e81ef"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "473362d9239ede0a33aca9a9"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "b3dbe63241872b51b6b8e16a",
+                  "51051aedc2907f039973281f"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5ac8d6885acfc400180ae7b4",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "da9ddcd4db3a063092f4538d"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "32247018fe8d524186309934"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "53bdce5790c56342f189cddf"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_003",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "657f9149f92cd718b7015507",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8ec5f4c82973640b234c",
+                "Filter": [
+                  "657f8ec5f4c82973640b234c"
+                ],
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "657f9149f92cd718b7015508",
+          "_parent": "c2c9cf67c1970d46d00c8908",
+          "_props": {
+            "filters": [
+              {
+                "locked": true,
+                "Plate": "657f8f10f4c82973640b2350",
+                "Filter": [
+                  "657f8f10f4c82973640b2350"
+                ],
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Fast SF (TAN)",
+        "shortName": "FAST SF-T",
+        "description": "Opscore Fast SF"
+      }
+    },
+    "fleaPriceRoubles": 120000,
+    "handbookPriceRoubles": 98000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addtoInventorySlots": [
+      "55d729ef4bdc2d3a168b456c"
+    ]
+  },
+  "b3dbe63241872b51b6b8e16a": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/ferro31.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.08,
+      "weaponErgonomicPenalty": 2,
+      "Slots": [
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "b3dbe63241872b51b6b8e16a",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Ferro Concepts PVS-31 Battery Pack (Multicam)",
+        "shortName": "Ferro 31-M",
+        "description": "Ferro Concepts PVS-31 Battery Pack (Multicam)"
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "8a7314f63ea0a39fd5a59e03": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 19600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "51051aedc2907f039973281f": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/ferro31grey.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.08,
+      "weaponErgonomicPenalty": 2,
+      "Slots": [
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b5",
+          "_parent": "b3dbe63241872b51b6b8e16a",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "43c652453dc928363990ce2e",
+                  "e5c076c199865527c3a463cb",
+                  "1d075eba22f12e3e15779172",
+                  "b6fc86a1f5217a5c42ca39b8",
+                  "1a32df1540dd6657099f3b9c",
+                  "d798d5d009f5495d8644654f",
+                  "7336df71cc22fdbc746712f1",
+                  "578a8c934020d5119ca5c7be",
+                  "0eae82a632b4cca224f7b259",
+                  "a17efc3497f9ab839ca51baa",
+                  "16cd4896896ba473cd49979e",
+                  "5cb04676a11444fa1f5d1fb0",
+                  "fee4b914511ca422192fe600",
+                  "f96b748d42838052c900fbb9",
+                  "a265d00c875a34adebe93b6a",
+                  "fa39b7a96fd46cf4087a6b65",
+                  "975b8a1274a6ae07d9034eb6",
+                  "2576e38961e731f1998e3fff",
+                  "5c65ea2bac871b8b9092cc21",
+                  "48817b58cf8ed42bd16d5bc0",
+                  "6a26d7025e3e3953437143d5",
+                  "501ae8d7d205fe64639ea2c2",
+                  "83ab7186206def8f2b69f5b1",
+                  "aa7f6d4e08df1bfd84dba62d",
+                  "ea11ab35240d5915247799fd",
+                  "a5151eeb533125a8f9806d4f",
+                  "53eaf591848e7201953a4c22",
+                  "50b22d0cc5b98fcbe9cbd812",
+                  "3ec95c4918ab66e17e83e7d0",
+                  "2fec65aea60ede20d367bd57",
+                  "e671ecbd13db3fe6d13dadcc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Ferro Concepts PVS-31 Battery Pack (Grey)",
+        "shortName": "Ferro 31-G",
+        "description": "Ferro Concepts PVS-31 Battery Pack (Grey)"
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c5816bbc36b4c9acec0adb52": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 19600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "1d075eba22f12e3e15779172": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/gloriapatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Glortia Exercitus Patch",
+        "shortName": "Patch-Gloria",
+        "description": "Glortia Exercitus Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "91be377c690d21d40be0c050": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "b6fc86a1f5217a5c42ca39b8": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/banks.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Banks Hate Him Patch",
+        "shortName": "Patch-Banks",
+        "description": "Banks Hate Him Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6ee1f7602328aeff08223819": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "1a32df1540dd6657099f3b9c": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/blasting.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Started Blasting Patch",
+        "shortName": "Patch-Blasting",
+        "description": "Started Blasting Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "1c9b5a3e3db71241721024ee": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "d798d5d009f5495d8644654f": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/gmstage.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Shinzo Abe Patch",
+        "shortName": "Patch-GM",
+        "description": "Shinzo Abe Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "d061c9b1e06687c42eee92dd": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "7336df71cc22fdbc746712f1": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/ideology.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "No Ideology Patch",
+        "shortName": "Patch-Ideology",
+        "description": "No Ideology Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "df3c77b8d805f0056aa04e17": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "578a8c934020d5119ca5c7be": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/narsil.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Shards of Narsil Patch",
+        "shortName": "Patch-Narsil",
+        "description": "Shards of Narsil Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "635303bbad98e617998786b4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "0eae82a632b4cca224f7b259": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/percs.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Forgotten Percs Patch",
+        "shortName": "Patch-Percs",
+        "description": "Forgotten Percs Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "22731b2e61a7dfec9892b028": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a17efc3497f9ab839ca51baa": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/uspsa.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "USPSA Patch",
+        "shortName": "Patch-USPSA",
+        "description": "USPSA Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "cc031840cece2b6f09649375": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "e5c076c199865527c3a463cb": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/warcrimes.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "No Warcrimes Patch",
+        "shortName": "Patch-Warcrimes",
+        "description": "No Warcrimes Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e8b2365c9ebfdedd96e67738": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "43c652453dc928363990ce2e": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/apes.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Apes Together Strong Patch",
+        "shortName": "Patch-Apes",
+        "description": "Apes Together Strong Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "5d7f40008d2b60d228e278f5": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "16cd4896896ba473cd49979e": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/asabovepatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "As Above Patch",
+        "shortName": "Patch-Above",
+        "description": "As Above Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "2078b9f17a91f1df0ee9dda1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "5cb04676a11444fa1f5d1fb0": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/despisepatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Despise Patch",
+        "shortName": "Patch-Despise",
+        "description": "Despise Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a9e5a2229e4c2c250191b018": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fee4b914511ca422192fe600": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/murderworldpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Murder World Patch",
+        "shortName": "Patch-Murder",
+        "description": "Murder World Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "0f8a7c28cb79622b4187eeaa": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "f96b748d42838052c900fbb9": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/oncallpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "On Call Patch",
+        "shortName": "Patch-On Call",
+        "description": "On Call Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "9ca7e70a39a33570386a5b85": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a265d00c875a34adebe93b6a": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/sotapatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SOT-A Patch",
+        "shortName": "Patch-SOTA",
+        "description": "SOT-A Patch Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "2f80435a13c77b3ea6060b37": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fa39b7a96fd46cf4087a6b65": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/weightpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Carry That Weight Patch",
+        "shortName": "Patch-Weight",
+        "description": "Carry That Weight Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "8ba8a4ec8cb4b92f4aa0ca4c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "975b8a1274a6ae07d9034eb6": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/buckpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Buck Patch",
+        "shortName": "Buck",
+        "description": "Buck Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "22ab4c3ac6a189e1dd67a10f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "2576e38961e731f1998e3fff": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/creekpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Creek Patch",
+        "shortName": "Creek",
+        "description": "Creek Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "30e01bfc253f31a0f7e31af4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "5c65ea2bac871b8b9092cc21": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/foxpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Fox Patch",
+        "shortName": "Fox",
+        "description": "Fox Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "1c928a43a6e67ca1f521c9a2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "48817b58cf8ed42bd16d5bc0": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/getinpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Get In Patch",
+        "shortName": "Get In",
+        "description": "Get In Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "0d64c9a9f39a88a83d58cdd6": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a26d7025e3e3953437143d5": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/heroespatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Heroes Patch",
+        "shortName": "Heroes",
+        "description": "Heroes Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "43a0f31b056fa41299e49a60": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "501ae8d7d205fe64639ea2c2": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/nighttimepatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Night Time Patch",
+        "shortName": "Night Time",
+        "description": "Night Time Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "06412461ebcbc26765cab756": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "83ab7186206def8f2b69f5b1": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/onipatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "ONI Patch",
+        "shortName": "ONI",
+        "description": "ONI Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "2aaabf89cf7247d6c38b364d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "aa7f6d4e08df1bfd84dba62d": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/outerhavenpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Outer Haven Patch",
+        "shortName": "Outer Haven",
+        "description": "Outer Haven Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "f25844ca085060f140618f8b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "ea11ab35240d5915247799fd": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/praisesunpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Praise The Sun Patch",
+        "shortName": "Praise The Sun",
+        "description": "Praise The Sun Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "898b9d3085f1117bac1283c2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a5151eeb533125a8f9806d4f": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/rohirrimpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Rohirrim Patch",
+        "shortName": "Rohirrim",
+        "description": "Rohirrim Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "e0da384b4310d6c3ecb3929d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "53eaf591848e7201953a4c22": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/unscmedicpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "UNSC Medic Patch",
+        "shortName": "UNSC Medic",
+        "description": "UNSC Medic Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c2cd190295222a54a2ef143b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "50b22d0cc5b98fcbe9cbd812": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/wizardmswpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Wizard MSW Patch",
+        "shortName": "Wizard MSW",
+        "description": "Wizard MSW Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "cd0061acac6ce3d70cb1b19f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "e671ecbd13db3fe6d13dadcc": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/toxiccomppatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Toxic Comp Bros Patch",
+        "shortName": "Toxic Comp Bros",
+        "description": "Toxic Comp Bros Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "0c93404691c31fdbf5969c42": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "2fec65aea60ede20d367bd57": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/reddeckpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Red Deck Wins Patch",
+        "shortName": "Red Deck Wins",
+        "description": "Red Deck Wins Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "5be7405e4a1b2ce418ba618a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "3ec95c4918ab66e17e83e7d0": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/PATCH/neighborhoodisturberpatch.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Neighborhood Disturber Patch",
+        "shortName": "Neighborhood Wins",
+        "description": "Neighborhood Wins Patch"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "6eca688f3e1c11f04660246d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "32247018fe8d524186309934": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f736886f774094242f193",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/vlite.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.005,
+      "weaponErgonomicPenalty": 1,
+      "Slots": [
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "32247018fe8d524186309934",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "a339e975f4f2bb76e4f0aec7",
+                  "67f96c69ad45a800468d96d5",
+                  "4ce62d6dbf2e4f817190b834"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_002",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "32247018fe8d524186309934",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "a339e975f4f2bb76e4f0aec7",
+                  "67f96c69ad45a800468d96d5",
+                  "4ce62d6dbf2e4f817190b834"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "V-Lite",
+        "shortName": "V-Lite",
+        "description": "V-Lite"
+      }
+    },
+    "fleaPriceRoubles": 10000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "4f17e37ef328cc4fd7424498": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 14600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a339e975f4f2bb76e4f0aec7": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f736886f774094242f193",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/vlitelightred.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.005,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "V-Lite RED",
+        "shortName": "V-Lite RED",
+        "description": "V-Lite RED"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "bee34606b9ade049969403e2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "67f96c69ad45a800468d96d5": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f736886f774094242f193",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/vlitelightgreen.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.005,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "V-Lite GREEN",
+        "shortName": "V-Lite GREEN",
+        "description": "V-Lite GREEN"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "3ba61448289a2c7141d5b4ab": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "4ce62d6dbf2e4f817190b834": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f736886f774094242f193",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/vlitelightblue.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.005,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "V-Lite BLUE",
+        "shortName": "V-Lite BLUE",
+        "description": "V-Lite BLUE"
+      }
+    },
+    "fleaPriceRoubles": 1200,
+    "handbookPriceRoubles": 980,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "bf06e5abaed5ef1e0e2b9639": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1960,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "75763f74c0ed9354c2455430": {
+    "itemTplToClone": "5c1a1cc52e221602b3136e3d",
+    "parentId": "5448e5724bdc2ddf718b4568",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/opscorestepin.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.01,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Slots": [
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "75763f74c0ed9354c2455430",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "a0fac77aa401a3f355804828",
+                  "9c53e064591d41e6ee1d9154",
+                  "9ca08783c56b1940e53f2519",
+                  "c018b4cd5574959c12e5ee2b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In (Tan)",
+        "shortName": "OpsCore Goggles-T",
+        "description": "OpsCore Step In Tan"
+      }
+    },
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "474a58b554dab56fc48e4525": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "5a91ca3f71f22f6f44000d0d": {
+    "itemTplToClone": "5c1a1cc52e221602b3136e3d",
+    "parentId": "5448e5724bdc2ddf718b4568",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/opscorestepin1.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.01,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Slots": [
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "75763f74c0ed9354c2455430",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "a0fac77aa401a3f355804828",
+                  "9c53e064591d41e6ee1d9154",
+                  "9ca08783c56b1940e53f2519",
+                  "c018b4cd5574959c12e5ee2b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In (Grey)",
+        "shortName": "OpsCore Goggles-G",
+        "description": "OpsCore Step In Grey"
+      }
+    },
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "c8317c77a693636b2e48190f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 96000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fda3b2297ecb7ce21177d4f2": {
+    "itemTplToClone": "5c1a1cc52e221602b3136e3d",
+    "parentId": "5448e5724bdc2ddf718b4568",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/opscorestepin3.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.01,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Slots": [
+        {
+          "_name": "mod_equipment_001",
+          "_id": "5ac8d6885acfc400180ae7b2",
+          "_parent": "75763f74c0ed9354c2455430",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "a0fac77aa401a3f355804828",
+                  "9c53e064591d41e6ee1d9154",
+                  "9ca08783c56b1940e53f2519",
+                  "c018b4cd5574959c12e5ee2b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In (Multicam)",
+        "shortName": "OpsCore Goggles-M",
+        "description": "OpsCore Step In Multicam"
+      }
+    },
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a5929ccb058b581bc0c3825c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a0fac77aa401a3f355804828": {
+    "itemTplToClone": "5a16b672fcdbcb001912fa83",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/blacklens.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Durability": 20,
+      "MaxDurability": 20,
+      "armorClass": "2",
+      "Indestructibility": 0.9,
+      "FaceShieldComponent": true,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": true,
+      "MaterialType": "GlassVisor",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "DeafStrength": "None",
+      "BluntThroughput": 0.1485,
+      "ArmorMaterial": "Glass",
+      "BlindnessProtection": 0,
+      "ArmorType": "None",
+      "armorColliders": [
+        "Eyes"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In Lens (Black)",
+        "shortName": "Lens-B",
+        "description": "OpsCore Step In Lens (Black)"
+      }
+    },
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a63798b19be20c72ece5993f": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "9c53e064591d41e6ee1d9154": {
+    "itemTplToClone": "5a16b672fcdbcb001912fa83",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/redlens.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Durability": 20,
+      "MaxDurability": 20,
+      "armorClass": "2",
+      "Indestructibility": 0.9,
+      "FaceShieldComponent": true,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": true,
+      "MaterialType": "GlassVisor",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "DeafStrength": "None",
+      "BluntThroughput": 0.1485,
+      "ArmorMaterial": "Glass",
+      "BlindnessProtection": 0,
+      "ArmorType": "None",
+      "armorColliders": [
+        "Eyes"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In Lens (Red)",
+        "shortName": "Lens-R",
+        "description": "OpsCore Step In Lens (Red)"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "99114af2a7e3227a164a8444": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "9ca08783c56b1940e53f2519": {
+    "itemTplToClone": "5a16b672fcdbcb001912fa83",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/clearlens.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Durability": 20,
+      "MaxDurability": 20,
+      "armorClass": "2",
+      "Indestructibility": 0.9,
+      "FaceShieldComponent": true,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": true,
+      "MaterialType": "GlassVisor",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "DeafStrength": "None",
+      "BluntThroughput": 0.1485,
+      "ArmorMaterial": "Glass",
+      "BlindnessProtection": 0,
+      "ArmorType": "None",
+      "armorColliders": [
+        "Eyes"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In Lens (RClear)",
+        "shortName": "Lens-C",
+        "description": "OpsCore Step In Lens (Clear)"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "98e5f59bd12bc1e239ed0890": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "c018b4cd5574959c12e5ee2b": {
+    "itemTplToClone": "5a16b672fcdbcb001912fa83",
+    "parentId": "57bef4c42459772e8d35a53b",
+    "handbookParentId": "5b47574386f77428ca22b331",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/bronzelens.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "ItemSound": "gear_goggles",
+      "BlocksEyewear": true,
+      "Durability": 20,
+      "MaxDurability": 20,
+      "armorClass": "2",
+      "Indestructibility": 0.9,
+      "FaceShieldComponent": true,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": true,
+      "MaterialType": "GlassVisor",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "DeafStrength": "None",
+      "BluntThroughput": 0.1485,
+      "ArmorMaterial": "Glass",
+      "BlindnessProtection": 0,
+      "ArmorType": "None",
+      "armorColliders": [
+        "Eyes"
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore Step In Lens (Bronze)",
+        "shortName": "Lens-BZ",
+        "description": "OpsCore Step In Lens (Bronze)"
+      }
+    },
+    "fleaPriceRoubles": 5000,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "33be5b89e5aeb80ea8a69390": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "005fdc2456afa836c2f76240": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/amphelmetblack.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.5,
+      "weaponErgonomicPenalty": 1,
+      "BlocksEarpiece": true,
+      "Distortion": 0.04,
+      "CompressorTreshold": -34,
+      "CompressorAttack": 20,
+      "CompressorRelease": 130,
+      "CompressorGain": 9,
+      "CutoffFreq": 140,
+      "Resonance": 2,
+      "CompressorVolume": -5,
+      "AmbientVolume": -6,
+      "DryVolume": -60,
+      "RolloffMultiplier": 1.3,
+      "HighFrequenciesGain": 1.3,
+      "ReverbVolume": -40,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore AMPS Helmet Mount (Black)",
+        "shortName": "AMPS-HB",
+        "description": "OpsCore AMPS Helmet Mount (Black)"
+      }
+    },
+    "fleaPriceRoubles": 60000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "bdfba51521d611d275a84878": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_001"
+    ]
+  },
+  "83c6d4b917b8209be3eadd5e": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/amphelmettan.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.5,
+      "weaponErgonomicPenalty": 1,
+      "BlocksEarpiece": true,
+      "Distortion": 0.04,
+      "CompressorTreshold": -34,
+      "CompressorAttack": 20,
+      "CompressorRelease": 130,
+      "CompressorGain": 9,
+      "CutoffFreq": 140,
+      "Resonance": 2,
+      "CompressorVolume": -5,
+      "AmbientVolume": -6,
+      "DryVolume": -60,
+      "RolloffMultiplier": 1.3,
+      "HighFrequenciesGain": 1.3,
+      "ReverbVolume": -40,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore AMPS Helmet Mount (Tan)",
+        "shortName": "AMPS-HT",
+        "description": "OpsCore AMPS Helmet Mount (Tan)"
+      }
+    },
+    "fleaPriceRoubles": 60000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "5b9512690692cc8d217c36c0": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_001"
+    ]
+  },
+  "53cae720e8ae6cb76bb526cb": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/amphelmettoxic.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.5,
+      "weaponErgonomicPenalty": 5,
+      "BlocksEarpiece": true,
+      "Distortion": 0.01,
+      "CompressorTreshold": -34,
+      "CompressorAttack": 20,
+      "CompressorRelease": 130,
+      "CompressorGain": 9,
+      "CutoffFreq": 140,
+      "Resonance": 2,
+      "CompressorVolume": -5,
+      "AmbientVolume": -6,
+      "DryVolume": -60,
+      "RolloffMultiplier": 1.3,
+      "HighFrequenciesGain": 1.3,
+      "ReverbVolume": -40,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore AMPS Helmet Mount (Toxic)",
+        "shortName": "AMPS-HTX",
+        "description": "OpsCore AMPS Helmet Mount (Toxic)"
+      }
+    },
+    "fleaPriceRoubles": 60000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "7e2fded0867df3e7e9d6f34b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_001"
+    ]
+  },
+  "13dc929f86451839c6d0e17f": {
+    "itemTplToClone": "5a16b9fffcdbcb0176308b34",
+    "parentId": "5645bcb74bdc2ded0b8b4578",
+    "handbookParentId": "5b5f6f3c86f774094242ef87",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/amphelmetmc.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.5,
+      "weaponErgonomicPenalty": 5,
+      "BlocksEarpiece": true,
+      "Distortion": 0.01,
+      "CompressorTreshold": -34,
+      "CompressorAttack": 20,
+      "CompressorRelease": 130,
+      "CompressorGain": 9,
+      "CutoffFreq": 140,
+      "Resonance": 2,
+      "CompressorVolume": -5,
+      "AmbientVolume": -6,
+      "DryVolume": -60,
+      "RolloffMultiplier": 1.3,
+      "HighFrequenciesGain": 1.3,
+      "ReverbVolume": -40,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "OpsCore AMPS Helmet Mount (Multicam)",
+        "shortName": "AMPS-HMC",
+        "description": "OpsCore AMPS Helmet Mount (Multicam)"
+      }
+    },
+    "fleaPriceRoubles": 60000,
+    "handbookPriceRoubles": 55000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "dc1c19b783c304bd3a718382": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_001"
+    ]
+  },
+  "53bdce5790c56342f189cddf": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/mohoc.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MOHOC",
+        "shortName": "MOHOC",
+        "description": "MOHOC"
+      }
+    },
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 8000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "8250556625fbc5367f2d7c2b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 9000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "70672f8968197066bb0696f6": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f736886f774094242f193",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/helstar6.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "HELSTAR",
+        "shortName": "HELSTAR",
+        "description": "HELSTAR"
+      }
+    },
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 9800,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "fe6e17439205f08455cd27ba": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "da9ddcd4db3a063092f4538d": {
+    "itemTplToClone": "5a398b75c4a282000a51a266",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/HELMETS/FASTSF/blastgauge.bundle",
+        "rcid": ""
+      },
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.001,
+      "weaponErgonomicPenalty": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Blast Gauge",
+        "shortName": "Blast Gauge",
+        "description": "Blast Gauge"
+      }
+    },
+    "fleaPriceRoubles": 2000,
+    "handbookPriceRoubles": 1500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "035c211e8cafd93308499120": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3400,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

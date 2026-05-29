@@ -1,0 +1,711 @@
+{
+    "manifest": [
+        {
+            "key": "Mods/CARRIERS/ARC/shawarcassaulter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/AVS/jtacavs.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/FCPC/mp7fcpc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/JPC/jpcaorassaulter.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/JPC/jpcbase.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/PFM/pfmassaultermedic.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/PFM/pfmjtac.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/PFM/pfmmc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/PFM/pfmpoppy.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/PFM/pfmtv.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/SLICKSTER/advancedslickster.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/CARRIERS/SPC/spcsota.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/vesttextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/amphelmetblack.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/amphelmetmc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/amphelmettan.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/amphelmettoxic.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/blacklens.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/blastgauge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/bronzelens.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/clearlens.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/fasthelmetsfblack.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/fasthelmetsfmc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/fasthelmetsftan.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/ferro31.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/ferro31grey.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/helstar6.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/maxtanbody.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/mohoc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/opscorestepin.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/opscorestepin1.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/opscorestepin3.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/redlens.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/vlite.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/vlitelightblue.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/vlitelightgreen.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/FASTSF/vlitelightred.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/apes.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/asabovepatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/banks.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/blasting.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/buckpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/creekpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/despisepatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/foxpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/getinpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/gloriapatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/gmstage.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/heroespatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/ideology.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/murderworldpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/narsil.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/neighborhoodisturberpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/nighttimepatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/oncallpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/onipatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/outerhavenpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/percs.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/praisesunpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/reddeckpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/rohirrimpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/sotapatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/toxiccomppatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/unscmedicpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/uspsa.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/warcrimes.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/weightpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/HELMETS/PATCH/wizardmswpatch.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/helmettextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/chimeragpnvg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/chimeragpnvgblk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/fusiongpnvg.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/fusiongpnvgblk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/g24blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/g24gold.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/g24grey.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/NVG/pvs31ablk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/nvgtextures"
+            ]
+        },
+        {
+            "key": "Mods/TAC/sotr.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/vesttextures",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/nvgtextures",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Mods/helmettextures",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
